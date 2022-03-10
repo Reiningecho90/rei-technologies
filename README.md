@@ -10,3 +10,4 @@ Updates:
 - More files for RTA1 will be added shortly (3/9/2022)
 - GitHub Pages website will be added once more information regarding the project is handled (3/9/2022)
 - RTA1 Construction will begin later today into tomorrow (3/10/2022)
+- More information added to the RTA1 directory (3/10/2022)
