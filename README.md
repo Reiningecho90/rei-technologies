@@ -6,4 +6,5 @@ Activity:
   *- RTA1 Launch Vehicle (v0.1)*
 
 Updates:
-- Created initial folder for RTA1 rocker yesterday (3/9/2022)
+- Created initial folder for RTA1 rocket yesterday (3/9/2022)
+- More files for RTA1 will be added shortly (3/9/2022)
