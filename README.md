@@ -8,3 +8,4 @@ Activity:
 Updates:
 - Created initial folder for RTA1 rocket yesterday (3/9/2022)
 - More files for RTA1 will be added shortly (3/9/2022)
+- GitHub Pages website will be added once more information regarding the project is handled (3/9/2022)
